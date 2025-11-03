@@ -7,7 +7,7 @@ This project is an **interactive web application** that simulates a **Wheel of F
 ## Live Demo
 
 You can view the live version of the project here:  
-[Live Demo Link](https://shorookkhaled559.github.io/Wheel-of-Fortune/)
+[Live Demo Link](https://shorookkhaled559.github.io/Wheel-of-Fortune)
 
 ---
 
