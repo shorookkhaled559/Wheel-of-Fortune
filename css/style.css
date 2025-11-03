@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    background: linear-gradient(45deg, #ff66c4 0%, #bf5eff 100%);
+}
+
+.wheel {
+  user-select: none;
+  pointer-events: none;
+
+  background: url(../img/wheel-of-fortune-round-2-removebg-preview.png) no-repeat center center;
+  background-size: contain; 
+
+}
